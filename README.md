@@ -1,6 +1,7 @@
 # instagram
 
-Instagram clone build with flutter
+Instagram clone UI designed with Flutter; 
+it is compatible and responsive with any type of Android and iOS devices .
 
 ## Getting Started
 
