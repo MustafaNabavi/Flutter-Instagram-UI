@@ -2,6 +2,8 @@
     package="com.kami.instagram">
     <!-- Flutter needs it to communicate with the running application
          to allow setting breakpoints, to provide hot reload, etc.
+
     -->
+
     <uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
